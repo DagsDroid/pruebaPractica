@@ -1,0 +1,9 @@
+
+- Datos del login:
+
+Usuario: alberto.grande
+Contraseña: pruebaPractica
+
+- La contraseña en la base de datos esta encriptada con sha1(): d812dcb0c98fed47d8aaf144b8886910e7815baf
+
+- La configuracion de la base de datos esta en la carpeta app en el archivo config.php ahi se coloca los datos para la conexion
